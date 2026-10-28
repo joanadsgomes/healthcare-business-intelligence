@@ -59,7 +59,7 @@ Joana dos Santos Gomes
 
 ## Full Research Paper
 
-[Read the full research paper (PDF)](healthcare-business-intelligence.pdf)
+[Read the full research paper (PDF)](a2024137612_JoanaGomes.pdf)
 
 ## Keywords
 
